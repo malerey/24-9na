@@ -10,3 +10,5 @@ Tecnologias que utiliza el proyecto
 
 Cualquier cosa que pueda interesar al lector. 
 
+Modifico el readme. 
+
